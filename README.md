@@ -1,10 +1,3 @@
----
-layout: index
-type: project
-title: Programming Principles
-slug: programming-principles
----
-
 # Programming Principles
 
 Every programmer benefits from understanding programming principles and patterns. This overview is a reference for myself, and I've just put it here. Maybe it is of help to you during design, discussion, or review. Please note that it's far from complete, and that you often need to make trade-offs between conflicting principles.
@@ -33,10 +26,10 @@ The list was inspired by [The Principles of Good Programming](http://www.artima.
 
 * [Maximise Cohesion](#maximise-cohesion)
 * [Liskov Substitution Principle](#liskov-substitution-principle)
-* [Open/Closed Principle](#open-closed-principle)
+* [Open/Closed Principle](#openclosed-principle)
 * [Single Responsibility Principle](#single-responsibility-principle)
 * [Hide Implementation Details](#hide-implementation-details)
-* [Curly's Law](#curly-39-s-law)
+* [Curly's Law](#curlys-law)
 
 ## KISS
 
